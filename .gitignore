@@ -36,14 +36,6 @@ coverage/
 *.cover
 *.py,cover
 
-# Media files (optional - keep only if you generate temp images/videos)
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.avi
-*.mp4
-
 # Environment variables
 .env
 
