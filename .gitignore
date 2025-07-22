@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.swp
+
+# Test output
+coverage/
+*.cover
+*.py,cover
+
+# Media files (optional - keep only if you generate temp images/videos)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.avi
+*.mp4
+
+# Environment variables
+.env
+
+# Build and dist
+build/
+dist/
+*.egg-info/
+
+# Optional: ignore compiled CV2 cache files
+cv2_cache/
